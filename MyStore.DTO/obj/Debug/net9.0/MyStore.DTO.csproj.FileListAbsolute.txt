@@ -1,0 +1,11 @@
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\bin\Debug\net9.0\MyStore.DTO.deps.json
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\bin\Debug\net9.0\MyStore.DTO.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\bin\Debug\net9.0\MyStore.DTO.pdb
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\obj\Debug\net9.0\MyStore.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\obj\Debug\net9.0\MyStore.DTO.AssemblyInfoInputs.cache
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\obj\Debug\net9.0\MyStore.DTO.AssemblyInfo.cs
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\obj\Debug\net9.0\MyStore.DTO.csproj.CoreCompileInputs.cache
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\obj\Debug\net9.0\MyStore.DTO.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\obj\Debug\net9.0\refint\MyStore.DTO.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\obj\Debug\net9.0\MyStore.DTO.pdb
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DTO\obj\Debug\net9.0\ref\MyStore.DTO.dll

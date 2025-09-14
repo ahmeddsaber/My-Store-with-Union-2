@@ -1,0 +1,17 @@
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\bin\Debug\net9.0\MyStore.Application.deps.json
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\bin\Debug\net9.0\MyStore.Application.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\bin\Debug\net9.0\MyStore.Application.pdb
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\bin\Debug\net9.0\MyStore.DTO.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\bin\Debug\net9.0\MyStore.Models.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\bin\Debug\net9.0\MyStore.DTO.pdb
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\bin\Debug\net9.0\MyStore.Models.pdb
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\MyStore.Application.csproj.AssemblyReference.cache
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\MyStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\MyStore.Application.AssemblyInfoInputs.cache
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\MyStore.Application.AssemblyInfo.cs
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\MyStore.Application.csproj.CoreCompileInputs.cache
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\MyStore..AA4E0CEB.Up2Date
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\MyStore.Application.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\refint\MyStore.Application.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\MyStore.Application.pdb
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.Application\obj\Debug\net9.0\ref\MyStore.Application.dll

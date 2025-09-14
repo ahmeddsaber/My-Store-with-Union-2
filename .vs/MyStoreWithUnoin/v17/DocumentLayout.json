@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D80658-D27D-4EFB-9B59-FC373F3CCE47}|MyStore.Infrastructure\\MyStore.Infrastructure.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.infrastructure\\genericrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D80658-D27D-4EFB-9B59-FC373F3CCE47}|MyStore.Infrastructure\\MyStore.Infrastructure.csproj|solutionrelative:mystore.infrastructure\\genericrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.application\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|solutionrelative:mystore.application\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|solutionrelative:mystore.application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.application\\services\\categeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|solutionrelative:mystore.application\\services\\categeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.application\\mapper\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|solutionrelative:mystore.application\\mapper\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.application\\contracts\\icategoryrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFC3F32-C2C0-404E-A22A-A378731692EC}|MyStore.Application\\MyStore.Application.csproj|solutionrelative:mystore.application\\contracts\\icategoryrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37B85D-3F20-457C-AD04-3024D32884B5}|MyStore.PresentationLayer\\MyStore.PresentationLayer.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C37B85D-3F20-457C-AD04-3024D32884B5}|MyStore.PresentationLayer\\MyStore.PresentationLayer.csproj|solutionrelative:mystore.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D80658-D27D-4EFB-9B59-FC373F3CCE47}|MyStore.Infrastructure\\MyStore.Infrastructure.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.infrastructure\\categoryrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D80658-D27D-4EFB-9B59-FC373F3CCE47}|MyStore.Infrastructure\\MyStore.Infrastructure.csproj|solutionrelative:mystore.infrastructure\\categoryrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4832630-1C61-49C1-8B0D-59647552AD09}|MyStore.DTO\\MyStore.DTO.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.dto\\categorydtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4832630-1C61-49C1-8B0D-59647552AD09}|MyStore.DTO\\MyStore.DTO.csproj|solutionrelative:mystore.dto\\categorydtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D347D3-79AB-4828-A8A9-542B23FDF7A7}|MyStore.Models\\MyStore.Models.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D347D3-79AB-4828-A8A9-542B23FDF7A7}|MyStore.Models\\MyStore.Models.csproj|solutionrelative:mystore.models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D80658-D27D-4EFB-9B59-FC373F3CCE47}|MyStore.Infrastructure\\MyStore.Infrastructure.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.infrastructure\\productrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D80658-D27D-4EFB-9B59-FC373F3CCE47}|MyStore.Infrastructure\\MyStore.Infrastructure.csproj|solutionrelative:mystore.infrastructure\\productrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4832630-1C61-49C1-8B0D-59647552AD09}|MyStore.DTO\\MyStore.DTO.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.dto\\categorydtos\\createcategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4832630-1C61-49C1-8B0D-59647552AD09}|MyStore.DTO\\MyStore.DTO.csproj|solutionrelative:mystore.dto\\categorydtos\\createcategorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC872D09-9513-435B-BDD4-1E632E548D74}|MyStore.DbContext\\MyStore.DbContext.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.dbcontext\\mystore.contextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC872D09-9513-435B-BDD4-1E632E548D74}|MyStore.DbContext\\MyStore.DbContext.csproj|solutionrelative:mystore.dbcontext\\mystore.contextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D347D3-79AB-4828-A8A9-542B23FDF7A7}|MyStore.Models\\MyStore.Models.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D347D3-79AB-4828-A8A9-542B23FDF7A7}|MyStore.Models\\MyStore.Models.csproj|solutionrelative:mystore.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D347D3-79AB-4828-A8A9-542B23FDF7A7}|MyStore.Models\\MyStore.Models.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D347D3-79AB-4828-A8A9-542B23FDF7A7}|MyStore.Models\\MyStore.Models.csproj|solutionrelative:mystore.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37B85D-3F20-457C-AD04-3024D32884B5}|MyStore.PresentationLayer\\MyStore.PresentationLayer.csproj|D:\\ALL ITI Projects\\MyStoreWithUnoin\\mystore.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C37B85D-3F20-457C-AD04-3024D32884B5}|MyStore.PresentationLayer\\MyStore.PresentationLayer.csproj|solutionrelative:mystore.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C37B85D-3F20-457C-AD04-3024D32884B5}|MyStore.PresentationLayer\\MyStore.PresentationLayer.csproj|d:\\all iti projects\\mystorewithunoin\\mystore.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C37B85D-3F20-457C-AD04-3024D32884B5}|MyStore.PresentationLayer\\MyStore.PresentationLayer.csproj|solutionrelative:mystore.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "MyStore.Application\\Services\\ICategoryService.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "MyStore.Application\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:17:16.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepositry.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Contracts\\ICategoryRepositry.cs",
+              "RelativeDocumentMoniker": "MyStore.Application\\Contracts\\ICategoryRepositry.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Contracts\\ICategoryRepositry.cs",
+              "RelativeToolTip": "MyStore.Application\\Contracts\\ICategoryRepositry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:18:15.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "MyStore.PresentationLayer\\Form1.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.PresentationLayer\\Form1.cs",
+              "RelativeToolTip": "MyStore.PresentationLayer\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:24:02.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Mapper\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "MyStore.Application\\Mapper\\MapsterConfig.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Mapper\\MapsterConfig.cs",
+              "RelativeToolTip": "MyStore.Application\\Mapper\\MapsterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:13:40.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.DTO\\CategoryDTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "MyStore.DTO\\CategoryDTOs\\CategoryDTO.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.DTO\\CategoryDTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "MyStore.DTO\\CategoryDTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:48:18.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepositry.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Infrastructure\\GenericRepositry.cs",
+              "RelativeDocumentMoniker": "MyStore.Infrastructure\\GenericRepositry.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Infrastructure\\GenericRepositry.cs",
+              "RelativeToolTip": "MyStore.Infrastructure\\GenericRepositry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:45:07.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepositry.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Infrastructure\\CategoryRepositry.cs",
+              "RelativeDocumentMoniker": "MyStore.Infrastructure\\CategoryRepositry.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Infrastructure\\CategoryRepositry.cs",
+              "RelativeToolTip": "MyStore.Infrastructure\\CategoryRepositry.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:55:36.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "MyStore.Models\\BaseModel.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Models\\BaseModel.cs",
+              "RelativeToolTip": "MyStore.Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:37:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategeryService.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Services\\CategeryService.cs",
+              "RelativeDocumentMoniker": "MyStore.Application\\Services\\CategeryService.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Services\\CategeryService.cs",
+              "RelativeToolTip": "MyStore.Application\\Services\\CategeryService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:48:29.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "MyStore.Application\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Application\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "MyStore.Application\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T05:19:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepositry.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Infrastructure\\ProductRepositry.cs",
+              "RelativeDocumentMoniker": "MyStore.Infrastructure\\ProductRepositry.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Infrastructure\\ProductRepositry.cs",
+              "RelativeToolTip": "MyStore.Infrastructure\\ProductRepositry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:43:02.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCategoryDTOs.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.DTO\\CategoryDTOs\\CreateCategoryDTOs.cs",
+              "RelativeDocumentMoniker": "MyStore.DTO\\CategoryDTOs\\CreateCategoryDTOs.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.DTO\\CategoryDTOs\\CreateCategoryDTOs.cs",
+              "RelativeToolTip": "MyStore.DTO\\CategoryDTOs\\CreateCategoryDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:38:25.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyStore.ContextClass.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.DbContext\\MyStore.ContextClass.cs",
+              "RelativeDocumentMoniker": "MyStore.DbContext\\MyStore.ContextClass.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.DbContext\\MyStore.ContextClass.cs",
+              "RelativeToolTip": "MyStore.DbContext\\MyStore.ContextClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:56:28.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyStore.Models\\Product.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Models\\Product.cs",
+              "RelativeToolTip": "MyStore.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:00:26.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "MyStore.PresentationLayer\\Form1.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.PresentationLayer\\Form1.cs [Design]",
+              "RelativeToolTip": "MyStore.PresentationLayer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:23:24.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "MyStore.PresentationLayer\\Program.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.PresentationLayer\\Program.cs",
+              "RelativeToolTip": "MyStore.PresentationLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:53:17.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Models\\Category.cs",
+              "RelativeDocumentMoniker": "MyStore.Models\\Category.cs",
+              "ToolTip": "D:\\ALL ITI Projects\\MyStoreWithUnoin\\MyStore.Models\\Category.cs",
+              "RelativeToolTip": "MyStore.Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:01:20.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

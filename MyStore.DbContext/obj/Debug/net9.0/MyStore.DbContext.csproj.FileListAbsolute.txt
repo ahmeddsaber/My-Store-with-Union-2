@@ -1,0 +1,17 @@
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\bin\Debug\net9.0\MyStore.DbContext.deps.json
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\bin\Debug\net9.0\MyStore.DbContext.runtimeconfig.json
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\bin\Debug\net9.0\MyStore.DbContext.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\bin\Debug\net9.0\MyStore.DbContext.pdb
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\bin\Debug\net9.0\MyStore.Models.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\bin\Debug\net9.0\MyStore.Models.pdb
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\MyStore.DbContext.csproj.AssemblyReference.cache
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\MyStore.DbContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\MyStore.DbContext.AssemblyInfoInputs.cache
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\MyStore.DbContext.AssemblyInfo.cs
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\MyStore.DbContext.csproj.CoreCompileInputs.cache
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\MyStore..6A17BBCF.Up2Date
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\MyStore.DbContext.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\refint\MyStore.DbContext.dll
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\MyStore.DbContext.pdb
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\MyStore.DbContext.genruntimeconfig.cache
+D:\ALL ITI Projects\MyStoreWithUnoin\MyStore.DbContext\obj\Debug\net9.0\ref\MyStore.DbContext.dll
